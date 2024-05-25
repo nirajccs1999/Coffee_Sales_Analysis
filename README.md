@@ -23,6 +23,7 @@ The repository contains the following files and directories:
 ## Dashboard
 Here is a snapshot of the dashboard created for the coffee Sales Analysis:
 
+<img width="575" alt="dashboard" src="https://github.com/nirajccs1999/Coffee_Sales_Analysis/assets/121447767/7b6f5667-5af9-45ee-8afa-c4bb545d9be3">
 
 
 ## Usage
